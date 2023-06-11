@@ -4,9 +4,9 @@
 
 Hi there!  My name is Wilson and I am a graduate from Juno College of Technology (formerly HackerYou).  Follow along as I continue my journey as a Frontend Developer!  Join me as I tackle my first challenge since graduating bootcamp by completing the 30 Day Vanilla JavaScript30 Coding Challenge! 
 
-+~~01 - JavaScript Drum Kit~~
-+~~02 - JS and CSS Clock~~
-+~~03 - CSS Variables~~
++ ~~01 - JavaScript Drum Kit~~
++ ~~02 - JS and CSS Clock~~
++ ~~03 - CSS Variables~~
 
 ## Starter #JavaScript30 Content
 
