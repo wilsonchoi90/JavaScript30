@@ -18,7 +18,23 @@ Hi there!  My name is Wilson and I am a graduate from Juno College of Technology
 + ~~12 - Key Sequence Detection~~
 + ~~13 - Slide in on Scroll~~
 + ~~14 - JavaScript Reference Copying~~
-+ 15 - CSS Variables
++ 15 - LocalStorage
++ 16 - Mouse Move Shadow
++ 17 - Sort Without Articles
++ 18 - Adding Up Time with Reduce
++ 19 - Webcam Fun
++ 20 - Speech Detection
++ 21 - Geolocation
++ 22 - Follow Along Link Highlighter
++ 23 - Speech Synthesis
++ 24 - Sticky Nav
++ 25 - Event Capture, Propagation, Bubbling and Once
++ 26 - Stripe Follow Along Nav
++ 27 - Click and Drag
++ 28 - Video Speed Controller
++ 29 - Countdown Timer
++ 30 - Whack A Mole
+
 
 ## Starter #JavaScript30 Content
 
