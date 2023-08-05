@@ -25,9 +25,9 @@ Follow along as I continue my journey as a Front End Developer!  Join me as I ta
 + ~~19 - Webcam Fun~~
 + ~~20 - Speech Detection~~
 + ~~21 - Geolocation~~
-+ 22 - Follow Along Link Highlighter~~
-+ 23 - Speech Synthesis
-+ 24 - Sticky Nav
++ ~~22 - Follow Along Link Highlighter~~
++ ~~23 - Speech Synthesis~~
++ ~~24 - Sticky Nav~~
 + 25 - Event Capture, Propagation, Bubbling and Once
 + 26 - Stripe Follow Along Nav
 + 27 - Click and Drag
