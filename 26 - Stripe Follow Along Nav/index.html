@@ -232,8 +232,16 @@
     background.classList.add('open');
 
     const dropdown = this.querySelector('.dropdown');
+    const dropdownCoords = dropdown.getBoundingClientRect();
+    const navCoords = nav.getBoundingClientRect();
+    
+    const coords = {
+      height: dropdownCoords.height,
+      width: dropdownCoords.width
+    }
 
-    const dropdownCoords = dropdown.getBoundingclientRect();
+    background.style.setProperty('width', `${coords.width}px`);
+    background.style.setProperty('height', `${coords.height}px`);
   }
   
   function handleLeave() {
@@ -244,9 +252,7 @@
   triggers.forEach(trigger => trigger.addEventListener('mouseenter', handleEnter));
   triggers.forEach(trigger => trigger.addEventListener('mouseleave', handleLeave));
 
-  // clear the word cool and remove white box on trigger
-  // add trigger for additional menu items *stretch goal*
-  //
+
 
 </script>
 
