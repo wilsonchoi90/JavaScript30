@@ -29,7 +29,7 @@ Follow along as I continue my journey as a Front End Developer!  Join me as I ta
 + ~~23 - Speech Synthesis~~
 + ~~24 - Sticky Nav~~
 + ~~25 - Event Capture, Propagation, Bubbling and Once~~
-+ 26 - Stripe Follow Along Nav
++ ~~26 - Stripe Follow Along Nav~~
 + 27 - Click and Drag
 + 28 - Video Speed Controller
 + 29 - Countdown Timer
